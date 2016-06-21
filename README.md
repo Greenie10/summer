@@ -1,2 +1,2 @@
 # summer
-Experimenting with react
+Experimenting with react.
