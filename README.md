@@ -9,3 +9,5 @@ to run
 webpack-dev-server --progress --colors --port 15001
 ```
 (with 15001 being just a fairly random high number to avoid any ‘well known’ ports).
+
+Starting to try using `react-storage` to hold data.
